@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.nads.epicureapp",
+    "sha256_cert_fingerprints":
+    ["58:9D:43:43:72:B2:F6:39:91:E4:94:F1:74:0B:C6:AE:B1:03:86:FF:C7:76:44:D8:31:1E:A2:4F:A3:2F:FB:AD"]
+  }
+}]
